@@ -90,7 +90,7 @@ const INITIAL_STATE = {
         "Matte grey. Rose gold. Bright red. No matter what your activewear aesthetic is, there’s going to be a Beats Studio3 that is meant for you. The top-tier listening experience that is tuning into these Beats is only enhanced by their stylish exterior.",
       price: 150.0,
       image:
-        "https://unsplash.com/photos/oXXc-s5nNy8",
+        "https://images.unsplash.com/photo-1585298723682-7115561c51b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
     },
   ],
   cart: [],
