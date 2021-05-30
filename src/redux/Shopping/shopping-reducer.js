@@ -29,6 +29,69 @@ const INITIAL_STATE = {
       image:
         "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80",
     },
+    {
+      id: 4,
+      title: "Bowers & Wilkins PX7: Best high-end headphones",
+      description:
+        "For a comfortable, ear-cradling option, turn to the largest over-ear headphones from Bowers & Wilkins. Their PX7 headphones are built with 43.6mm drivers, the largest in their headphone collection, for studio-quality performances. ",
+      price: 50.0,
+      image:
+        "https://unsplash.com/photos/PDX_a_82obo",
+    },
+    {
+      id: 5,
+      title: "Bose Noise Cancelling 700: Best value headphones",
+      description:
+        "With their noise-cancelling capabilities, the Bose Headphones 700 can make any place your office or studio. Their integrated microphones are built to pick up your voice, and your voice only. At both low and high volume, the fine-tuned audio sounds precisely the way you’d like.",
+      price: 150.0,
+      image:
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+    },
+    {
+      id: 6,
+      title: "Bang & Olufsen Beoplay H9i: Best headphones for commuting",
+      description:
+        "Between its modern, modular design and high-quality sound delivery, the Bang & Olufsen Beoplay H9i set offers great sound for your everyday life. Comfortable over-ear headphones offer active noise cancelling so you can hear your music or calls perfectly—no matter where you are.",
+      price: 150.0,
+      image:
+        "https://images.unsplash.com/photo-1585298723682-7115561c51b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    },
+    {
+      id: 7,
+      title: "Beats Studio3: Best headphones for workouts",
+      description:
+        "Matte grey. Rose gold. Bright red. No matter what your activewear aesthetic is, there’s going to be a Beats Studio3 that is meant for you. The top-tier listening experience that is tuning into these Beats is only enhanced by their stylish exterior.",
+      price: 150.0,
+      image:
+        "https://images.unsplash.com/photo-1610196600828-517131fddddd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    },
+    {
+      id: 8,
+      title: "Fujifilm X-T4",
+      description:
+        "Looking for a hybrid camera that's just as capable at shooting video as it is stills? The Fujifilm X-T4 is the best option around.",
+      price: 600.0,
+      image:
+        "https://images.unsplash.com/photo-1600084788785-1b84363c5ec0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+    },
+    {
+      id: 9,
+      title: "Canon EOS R6",
+      description:
+        "While the Canon EOS R5 is overkill for most people, the EOS R6 is a more affordable full-frame alternative that is simply one of the best cameras you can buy today",
+      price: 150.0,
+      image:
+        "https://images.unsplash.com/photo-1519638831568-d9897f54ed69?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+    },
+    {
+      id: 10,
+      title: "Beats Studio3: Best headphones for workouts",
+      description:
+        "Matte grey. Rose gold. Bright red. No matter what your activewear aesthetic is, there’s going to be a Beats Studio3 that is meant for you. The top-tier listening experience that is tuning into these Beats is only enhanced by their stylish exterior.",
+      price: 150.0,
+      image:
+        "https://images.unsplash.com/photo-1585298723682-7115561c51b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
+    },
   ],
   cart: [],
   currentItem: null,
