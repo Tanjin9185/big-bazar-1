@@ -21,7 +21,7 @@ const SingleItem = ({ current, addToCart }) => {
           onClick={() => addToCart(current.id)}
           className={styles.details__addBtn}
         >
-          Add To Cart
+          Add Cart
         </button>
       </div>
     </div>
